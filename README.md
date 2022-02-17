@@ -14,6 +14,7 @@
 - Graphics 3.00% 
 - Motherboards 5.00% 
 - Power Supplies 10.00%
+- 6KGZZ5XKI76Q12Y
 <!---
 jason879/jason879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
